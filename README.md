@@ -1,0 +1,2 @@
+* Juego interactivo donde el usuario podrá adivinar el número secreto de un rango de 1 a 10, y en caso que no acerte mandara un mensjae de error al tercer intento. Habilitara el boton "Nuevo juego" una vez este haya ganado o excedido el numero de intentos, y el boton "intentar" se deshabilita una vez se agotan los intentos disponibles, se volvera a habilitar una vez se inicie un "Nuevo juego"
+* Dentro de este proyecto tambien se desarrollaron algunos challenge para la introducción al lenguaje de programación Javascript en la carpeta "challenge".
